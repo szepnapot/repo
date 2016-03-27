@@ -8,7 +8,7 @@
 
 ====================================================================================================
 * [**checkio**](https://github.com/szepnapot/repo/tree/master/checkio)  
-*my solutions for checkio missions
+*my solutions for checkio missions*
 
 * [**coursera_assignments_python**](https://github.com/szepnapot/repo/tree/master/coursera_assignments_python)     
 *name speaks for itself, solutions for Dr. Charles Severence's Coursera Python course*
