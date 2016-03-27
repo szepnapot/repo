@@ -2,4 +2,4 @@
 Great course, recommend for everybody who's thinking to learn programming. Gave me a ton of confidience and inspiration to move forward in this field. These are some fundamental codes for beginners.  
 Exercises with list, tuples, dictionaries, regex, working with i/o.
 
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://github.com/szepnapot/repo/blob/master/coursera_assignments_python/coursera_grades.jpg)
