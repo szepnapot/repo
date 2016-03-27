@@ -1,8 +1,8 @@
 # r.e.p.o
-Regulary Edited Python Objects
-(in Python everything is and object)
+## Regulary Edited Python Objects
+## (in Python everything is and object)
 
--**coursera_assignments_python**
+* **coursera_assignments_python**
 *name speaks for itself, solutions for Dr. Charles Severence's Coursera Python course
 
 -**dungeon_game**
