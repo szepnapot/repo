@@ -1,6 +1,10 @@
 # r.e.p.o
 ### Regulary Edited Python Objects
 
+## Currently working on:   
+* [GUI for the hitchike project](https://github.com/szepnapot/repo/blob/master/hitchike_python/geogui.py)   
+* A movie crawler. Search for movies from a list of titles via and API, and store the data of each movie (title, rating, link, metascore, genre, runtime) in a database.  
+
 ====================================================================================================
 * [**coursera_assignments_python**](https://github.com/szepnapot/repo/tree/master/coursera_assignments_python)     
 *name speaks for itself, solutions for Dr. Charles Severence's Coursera Python course*
@@ -30,10 +34,6 @@
 [top250 IMDb](https://github.com/szepnapot/repo/blob/master/top250_imdb.py) ----------- tryout with request library and omdbapi  
 
 ====================================================================================================   
-
-## Currently working on:   
-* [GUI for the hitchike project](https://github.com/szepnapot/repo/blob/master/hitchike_python/geogui.py)   
-* A movie crawler. Search for movies from a list of titles via and API, and store the data of each movie (title, rating, link, metascore, genre, runtime) in a database.   
 
 ### Also on [Treehouse](http://referrals.trhou.se/peterlodri), close to finish the Python track, I enjoy it very much so far.
 Have a ton of ideas, so keep on eye on this, the more I learn the faster they become reality :)  
