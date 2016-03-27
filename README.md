@@ -25,8 +25,8 @@
 [Bubble-sort](https://github.com/szepnapot/repo/blob/master/bubble_sort_algorithm.py) ----------- Bubble-sort, short-bubble and .sort() somparison  
 [Letter game](https://github.com/szepnapot/repo/blob/master/letter_game.py) ----------- Letter guess game  
 [Number guess v2](https://github.com/szepnapot/repo/blob/master/numberguess.py) ----------- improved number guess game  
-[Shopping list](https://github.com/szepnapot/repo/blob/master/shopping_list.py) ----------- Create a shopping list, view and edit created labels    
-[top250 IMDb](https://github.com/szepnapot/repo/blob/master/top250_imdb.py) ----------- tryout with request library and omdbapi  
+[Shopping list](https://github.com/szepnapot/repo/blob/master/shopping_list.py) ----------- Create a shopping list, view and edit created labels       
+[top250 IMDb](https://github.com/szepnapot/repo/blob/master/top250_imdb.py) ----------- tryout with request library and omdbapi    
 ====================================================================================================   
 
 ## Currently working on:   
