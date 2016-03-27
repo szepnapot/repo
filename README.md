@@ -21,10 +21,10 @@
 *exercise code written to work with Twitter's API*
 ====================================================================================================
 
-[Currently working on a GUI for the hitchike project](https://github.com/szepnapot/repo/blob/master/hitchike_python/geogui.py)
-Have a ton of ideas, so keep on eye on this, the more I learn the faster they become reality :)
+[Currently working on a GUI for the hitchike project](https://github.com/szepnapot/repo/blob/master/hitchike_python/geogui.py)  
+Have a ton of ideas, so keep on eye on this, the more I learn the faster they become reality :)  
 feel free to play with them, edit them or contribute
 
 [Peter Lodri](szepnapot.github.io)
-[![alt text](https://pbs.twimg.com/profile_images/685545181328756736/xYRETZ4f.png "Twitter")](https://twitter.com/Theidden_one)
+[![alt text](http://www.grantstoker.com/images/twitterlogo.png "Twitter")](https://twitter.com/Theidden_one)
 
