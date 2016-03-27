@@ -39,7 +39,7 @@
 
 ====================================================================================================   
 
-### Also on [Treehouse](http://referrals.trhou.se/peterlodri), close to finish the Python track, I enjoy it very much so far.
+### Also on [Treehouse](http://referrals.trhou.se/peterlodri), close to finish the Python track, enjoy it very much so far.
 Have a ton of ideas, so keep on eye on this, the more I learn the faster they become reality :)  
 Feel free to play with them, edit them or contribute, also if you have a good idea and need somebody to work with, I'm looking forward to hearing from you!  
 [Peter Lodri](szepnapot.github.io)  
