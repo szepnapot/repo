@@ -2,22 +2,22 @@
 ### Regulary Edited Python Objects
 
 
-* **coursera_assignments_python**
+* **coursera_assignments_python**   
 name speaks for itself, solutions for Dr. Charles Severence's Coursera Python course
 
-* **dungeon_game**
+* **dungeon_game**  
 simple board game
 
-* **hack_'n'_slash**
+* **hack_'n'_slash**    
 fight against endless number of monsters
 
-* **hitchike**
+* **hitchike**  
 simple progs using Google and Wikipedia APIs to give you quick information about your trip
 
-* **number_guess**
+* **number_guess**  
 simple guessing game
 
-* **twitter_crawl**
+* **twitter_crawl**  
 exercise code written to work with Twitter's API
 
 
