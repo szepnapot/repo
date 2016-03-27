@@ -18,7 +18,8 @@
 *simple guessing game*
 
 * **twitter_crawl**  
-*exercise code written to work with Twitter's API*  
+*exercise code written to work with Twitter's API* 
+
 ====================================================================================================
 
 [Currently working on a GUI for the hitchike project](https://github.com/szepnapot/repo/blob/master/hitchike_python/geogui.py)  
